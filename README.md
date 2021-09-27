@@ -1,2 +1,2 @@
 # siamese_network
-** Siamese Network based Bangla Short Speech Commands Recognition
+** Siamese Network based Speech Similarity Detection
